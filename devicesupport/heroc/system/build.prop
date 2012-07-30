@@ -23,7 +23,7 @@ ro.product.manufacturer=HTC
 ro.product.locale.language=en
 ro.product.locale.region=US
 ro.wifi.channels=
-ro.board.platform=msm7x27
+ro.board.platform=msm7k
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=heroc
 # Do not try to parse ro.build.description or .fingerprint
@@ -39,16 +39,10 @@ ro.build.characteristics=default
 ro.media.dec.aud.wma.enabled=1
 ro.media.dec.vid.wmv.enabled=1
 windowsmgr.max_events_per_sec=240
-ro.rommanager.developerid=teamkang
-ro.aokp.version=aokp_heroc_build-38
-ro.goo.developerid=aokp
-ro.goo.rom=aokp
-ro.goo.version=16
 persist.sys.camera-sound=1
 
 debug.sf.hw=1
 ro.config.disable_hw_accel=true
-media.stagefright.enable-http=false
 media.stagefright.enable-record=true
 # Wireless & network settings
 rild.libpath = /system/lib/libhtc_ril.so
@@ -129,10 +123,11 @@ ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/
 ro.com.android.wifi-watchlist=GoogleGuest
 ro.setupwizard.enterprise_mode=1
 ro.com.android.dateformat=MM-dd-yyyy
-ro.config.ringtone=Ring_Digital_02.ogg
-ro.config.notification_sound=OnTheHunt.ogg
+ro.config.ringtone=Ring_Classic_02.ogg
+ro.config.notification_sound=Voila.ogg
 ro.config.alarm_alert=Alarm_Rooster_02.ogg
 ro.kernel.android.checkjni=1
+ro.build.romversion=AIOAOKP
 ro.setupwizard.mode=OPTIONAL
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt

@@ -22,7 +22,7 @@ ro.product.cpu.abi2=armeabi
 ro.product.manufacturer=HTC
 ro.product.locale.language=en
 ro.wifi.channels=
-ro.board.platform=msm7x27
+ro.board.platform=msm7k
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=desirec
 # Do not try to parse ro.build.description or .fingerprint
@@ -66,10 +66,10 @@ ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/
 ro.com.android.wifi-watchlist=GoogleGuest
 ro.setupwizard.enterprise_mode=1
 ro.com.android.dateformat=MM-dd-yyyy
-ro.config.ringtone=Pyxis.ogg
-ro.config.notification_sound=Merope.ogg
-ro.config.alarm_alert=Scandium.ogg
-ro.build.romversion=Evervolv-Eligo-2.2.0b1
+ro.config.ringtone=Ring_Classic_02.ogg
+ro.config.notification_sound=Voila.ogg
+ro.config.alarm_alert=Alarm_Rooster_02.ogg
+ro.build.romversion=AIOAOKP
 ro.kernel.android.checkjni=1
 ro.setupwizard.mode=OPTIONAL
 net.bt.name=Android

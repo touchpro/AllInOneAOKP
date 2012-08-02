@@ -34,7 +34,7 @@ ini_set("rom_author",           "TeamLegacy");
 #- Device this is built for (e.g. HeroC)
 ini_set("rom_device",           "HTCLegaC");
 #- Build date (e.g. 06/04/2012)
-ini_set("rom_date",             "7/20/12");
+ini_set("rom_date",             "8/2/12");
 #- ROM Codename (e.g. Nemesis)
 ini_set("rom_codename",             "v1");
 #- Device number

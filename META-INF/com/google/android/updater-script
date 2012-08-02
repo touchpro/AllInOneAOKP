@@ -14,7 +14,7 @@
 # Thanks to amarullz for the original AROMA installation manifest
 
 ui_print("AllInOneAOKP");
-ui_print("7/20/12");
+ui_print("8/2/12");
 ui_print("TeamLegacy");
 set_progress(0.0);
 ui_print(" ");

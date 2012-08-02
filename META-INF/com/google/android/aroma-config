@@ -162,7 +162,7 @@ agreebox(
     resread("license.txt"),
   
   #-- Checkbox Text
-    "I Agree with this Terms and Conditions...",
+    "I Agree with these Terms and Conditions...",
   
   #-- Unchecked Alert Message
     "Please check the agreement to continue."
